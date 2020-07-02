@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Myself Atharva Pandey</title>
+<style>
+
+        h2 {
+            color: rgb(255, 0, 0);
+        }
+
+        body {
+            background-color: rgb(0, 197, 252);
+        }
+
+        </style>
+</head>
+<body>
+<h1>All about Myself</h1>
+
+<h2>What I love doing</h2>
+
+<p>I like Geography It's nice and fun I know the capital of every country I also have a YouTube channel It's fun to upload the videos but one thing is straight it takes a lot of editing!</p>
+
+<h2>My history</h2>
+
+<p>So, I was born on the 21st of July 2011 at 21:12 India Time Zone In a city called Patna with a population of 2 million people we lived in the Czech Republic 2 years ago I moved to Luxembourg now the year is 2020</p>
+
+<h2>A nice old Poem (Oh Crazy Man)</h2>
+<h3>By Atharva Pandey</h3>
+<p>Oh crazy man are you doing something! We're <br> goin' crazy passing the streets aww baby <br> you are taking the time oh yeah!</p>
+
+    <img src="https://static.wixstatic.com/media/296cc0_8c8ddcc493ad4a2db7d9469fcd2cade0~mv2.png/v1/fill/w_250,h_246,al_c,lg_1,q_85/296cc0_8c8ddcc493ad4a2db7d9469fcd2cade0~mv2.webp">
+
+</body>
+</html>

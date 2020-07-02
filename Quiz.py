@@ -1,0 +1,6 @@
+name = input('What is your name? ')
+favourite_colour = input('What is your favourite colour? ')
+age = input('How old are you? ')
+birth_city = input('Where were you born? ')
+year_of_birth = input('What year were you born in? ')
+print( name + ' likes ' + favourite_colour + ' and is ' + age + ' years old ' + 'and was born in ' + birth_city + ' he was born in the year ' + year_of_birth + '.' + " Look's like you've finished the quiz! ")
